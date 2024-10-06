@@ -1,0 +1,15 @@
+# Draw Command "inner_circle_diameter" / "outer_circle_diameter" / "sector"
+# Format: inner_circle_diameter, diameeter
+# Format: outer_circle_diameter, diameeter
+# Format: sector, inner_radius, outer_radius, number_of_sectors, sector_ratio(hole)
+inner_circle_diameter,8
+outer_circle_diameter,344
+sector,  62.0,   73.5,  24, 0.33    //C4
+sector,  75.5,   87.0,  27, 0.33    //D4
+sector,  89.0,  100.5,  30, 0.33    //E4
+sector, 102.5,  114.0,  32, 0.33    //F4
+sector, 116.0,  127.5,  36, 0.33    //G4
+sector, 129.5,  141.0,  40, 0.33    //A4
+sector, 143.0,  154.5,  45, 0.33    //B4
+sector, 156.5,  168.0,  48, 0.33    //C5
+
