@@ -3,7 +3,7 @@
 # Format: outer_circle_diameter, diameeter
 # Format: sector, inner_radius, outer_radius, number_of_sectors, sector_ratio(hole)
 inner_circle_diameter,8
-outer_circle_diameter,344
+outer_circle_diameter,340
 sector,  62.0,   73.5,  24, 0.33    //C4
 sector,  75.5,   87.0,  27, 0.33    //D4
 sector,  89.0,  100.5,  30, 0.33    //E4
